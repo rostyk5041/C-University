@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\rosty\source\repos\Lab 6.4\Lab 6.4\Lab 6.4.cpp(97,24): error C2660: Sort2: функция не принимает 3 аргументов
+C:\Users\rosty\source\repos\Lab 6.4\Lab 6.4\Lab 6.4.cpp(88,6): message : см. объявление "Sort2"
