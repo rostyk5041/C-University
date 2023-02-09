@@ -1,0 +1,11 @@
+﻿  Lab 13.2.1.cpp
+C:\Users\rosty\source\repos\Lab 13.2.1\Lab 13.2.1\Lab 13.2.1.cpp(17,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\rosty\source\repos\Lab 13.2.1\Lab 13.2.1\Lab 13.2.1.cpp(40,29): error C2065: s: необъявленный идентификатор
+C:\Users\rosty\source\repos\Lab 13.2.1\Lab 13.2.1\Lab 13.2.1.cpp(40,22): warning C4474: "scanf_s" : для строки формата передано слишком много аргументов
+C:\Users\rosty\source\repos\Lab 13.2.1\Lab 13.2.1\Lab 13.2.1.cpp(40,22): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+C:\Users\rosty\source\repos\Lab 13.2.1\Lab 13.2.1\Lab 13.2.1.cpp(42,29): error C2065: s: необъявленный идентификатор
+C:\Users\rosty\source\repos\Lab 13.2.1\Lab 13.2.1\Lab 13.2.1.cpp(42,22): warning C4474: "scanf_s" : для строки формата передано слишком много аргументов
+C:\Users\rosty\source\repos\Lab 13.2.1\Lab 13.2.1\Lab 13.2.1.cpp(42,22): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+C:\Users\rosty\source\repos\Lab 13.2.1\Lab 13.2.1\Lab 13.2.1.cpp(44,29): error C2065: s: необъявленный идентификатор
+C:\Users\rosty\source\repos\Lab 13.2.1\Lab 13.2.1\Lab 13.2.1.cpp(44,22): warning C4474: "scanf_s" : для строки формата передано слишком много аргументов
+C:\Users\rosty\source\repos\Lab 13.2.1\Lab 13.2.1\Lab 13.2.1.cpp(44,22): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
