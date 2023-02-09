@@ -1,0 +1,3 @@
+﻿     Создается библиотека C:\Users\rosty\source\repos\Lab 7.3.2\Debug\UnitTest1.lib и объект C:\Users\rosty\source\repos\Lab 7.3.2\Debug\UnitTest1.exp
+UnitTest1.obj : error LNK2019: ссылка на неразрешенный внешний символ "int __cdecl SumRow(int * *,int,int,int)" (?SumRow@@YAHPAPAHHHH@Z) в функции "public: void __thiscall UnitTest1::UnitTest1::TestMethod1(void)" (?TestMethod1@UnitTest1@1@QAEXXZ).
+C:\Users\rosty\source\repos\Lab 7.3.2\Debug\UnitTest1.dll : fatal error LNK1120: неразрешенных внешних элементов: 1
